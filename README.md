@@ -31,12 +31,24 @@ conda activate gold
 
 ## Graphs📊
 
-- ![Average Gold Price Quarterly](./graphs/Average%20Gold%20Price%20Quartarly%20Since%201950%20onwards%20linechart.png)
-- ![Average Gold Price Yearly](./graphs/Average%20Gold%20Price%20Yearly%20Since%201950%20onwards%20linechart.png)
-- ![Gold Price Monthly](./graphs/Gold%20Price%20Monthly%20Since%201950%20onwards%20month%20plot.png)
-- ![Predictions](./graphs/predictions%20line%20chart.png)
-- ![Train, Test, and Naive Prediction](./graphs/train%20test%20and%20naive%20prediction%20line%20chart.png)
-- ![Train, Test, and Regression Prediction](./graphs/trian%20test%20and%20regression%20line%20chart.png)
+### Average Gold Price Quarterly
+![Average Gold Price Quarterly](./graphs/Average%20Gold%20Price%20Quartarly%20Since%201950%20onwards%20linechart.png)
+
+### Average Gold Price Yearly
+![Average Gold Price Yearly](./graphs/Average%20Gold%20Price%20Yearly%20Since%201950%20onwards%20linechart.png)
+
+### Gold Price Monthly
+![Gold Price Monthly](./graphs/Gold%20Price%20Monthly%20Since%201950%20onwards%20month%20plot.png)
+
+### Train, Test, and Naive Prediction
+![Train, Test, and Naive Prediction](./graphs/train%20test%20and%20naive%20prediction%20line%20chart.png)
+
+### Train, Test, and Regression Prediction
+![Train, Test, and Regression Prediction](./graphs/trian%20test%20and%20regression%20line%20chart.png)
+
+### Final Predictions
+![Predictions](./graphs/predictions%20line%20chart.png)
+
 
 
 ## Conclusion
