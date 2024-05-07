@@ -30,14 +30,16 @@ conda activate gold
 ```
 
 ## Graphs📊
-- [Average Gold Price Quarterly](https://github.com/ashay-thamankar/gold-price-forecasting-model/blob/main/graphs/Average%20Gold%20Price%20Quartarly%20Since%201950%20onwards%20linechart.png)
-- [Average Gold Price Yearly](https://github.com/ashay-thamankar/gold-price-forecasting-model/blob/main/graphs/Average%20Gold%20Price%20Yearly%20Since%201950%20onwards%20linechart.png)
-- [Gold Price Monthly](https://github.com/ashay-thamankar/gold-price-forecasting-model/blob/main/graphs/Gold%20Price%20Monthly%20Since%201950%20onwards%20month%20plot.png)
-- [Predictions](https://github.com/ashay-thamankar/gold-price-forecasting-model/blob/main/graphs/predictions%20line%20chart.png)
-- [Train, Test, and Naive Prediction](https://github.com/ashay-thamankar/gold-price-forecasting-model/blob/main/graphs/train%20test%20and%20naive%20prediction%20line%20chart.png)
-- [Train, Test, and Regression Prediction](https://github.com/ashay-thamankar/gold-price-forecasting-model/blob/main/graphs/trian%20test%20and%20regression%20line%20chart.png)
+
+- ![Average Gold Price Quarterly](./graphs/Average%20Gold%20Price%20Quartarly%20Since%201950%20onwards%20linechart.png)
+- ![Average Gold Price Yearly](./graphs/Average%20Gold%20Price%20Yearly%20Since%201950%20onwards%20linechart.png)
+- ![Gold Price Monthly](./graphs/Gold%20Price%20Monthly%20Since%201950%20onwards%20month%20plot.png)
+- ![Predictions](./graphs/predictions%20line%20chart.png)
+- ![Train, Test, and Naive Prediction](./graphs/train%20test%20and%20naive%20prediction%20line%20chart.png)
+- ![Train, Test, and Regression Prediction](./graphs/trian%20test%20and%20regression%20line%20chart.png)
+
 
 ## Conclusion
 🔑 The project demonstrates the feasibility of using time series analysis techniques to predict gold prices effectively. By combining data analysis, modeling, and visualization, we provide valuable insights and predictions to support decision-making in the gold market.
 
-📧 For any suggestions or feedback, please email ashaythamankar@exafluence.com.
+📧 For any suggestions or feedback, please email ashaythamankar@gmail.com.
