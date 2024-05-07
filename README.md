@@ -19,15 +19,31 @@
 🔧 - The project demonstrates the application of time series analysis techniques to predict gold prices accurately.
 - Through data preprocessing, feature engineering, and model selection, we create robust forecasting models capable of capturing the underlying patterns in the data.
 
-## Usage
-🚀 To run the project, clone the repository from [GitHub](https://github.com/ashay-thamankar/gold-price-forecasting-model.git) and set up the 'gold' environment using the provided requirements file.
+Here's the revised version with the provided commands:
 
-- Copy and paste the following commands into your command prompt or terminal:
+
+## Usage
+
+1. **Clone the repository to your local machine:**
+
 ```bash
 git clone https://github.com/ashay-thamankar/gold-price-forecasting-model.git
+```
+
+2. **Navigate to the project directory:**
+
+```bash
 cd gold-price-forecasting-model
+```
+
+3. **Activate the conda environment:**
+
+```bash
 conda activate gold
 ```
+
+
+This markdown provides step-by-step instructions for users to clone the repository, navigate to the project directory, create the conda environment, and activate it for usage.
 
 ## Graphs📊
 
