@@ -1,4 +1,3 @@
-```markdown
 # Gold Price Time Series Prediction
 
 ## Problem Statement
@@ -42,4 +41,3 @@ conda activate gold
 🔑 The project demonstrates the feasibility of using time series analysis techniques to predict gold prices effectively. By combining data analysis, modeling, and visualization, we provide valuable insights and predictions to support decision-making in the gold market.
 
 📧 For any suggestions or feedback, please email ashaythamankar@exafluence.com.
-```
